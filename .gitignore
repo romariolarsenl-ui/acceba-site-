@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+
+# React
+*.js
+*.jsx
+*.ts
+*.tsx
+
+# Vite
+.vite/
+*.env
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
